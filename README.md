@@ -33,7 +33,7 @@ The above graph is a visual representation of the ride share data for the PyBer 
 ## Summary
 ### Business Recommendations to the CEO for addressing disparities among the city types
 -	Based on the results from this analysis, one recommendation that can be given is considering the total length of the ride. Depending on how far the driver is taking the passenger, this could also be the reason why the average fare per ride in rural cities is high and in urban cities is low.
--	Performing a comparison of the data to include drivers per capita. Due to the lower number of drivers in rural cities compared to suburban and urban cities, it would be interesting to compare the city types to the ratio of drivers per capita. 
+-	Reduce the fare per ride in rural and suburban cities and thus making it affordable to people. This would help in increasing the people adoption of PyBer service.
 -	Lastly clearly define the criteria as to what makes a city urban, suburban or rural. Currently, we are just relying on the data provided, but it would have made the data more accurate if there was a clear criteria to categorize a city as urban, suburban or rural.
 
 
