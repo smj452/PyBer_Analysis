@@ -13,7 +13,9 @@ The table below provides a quick summary of the differences in ride-sharing data
 urban cities. This provides PyBer the opportunity to increase driver support in rural areas and further increase its revenue. Investment in rural areas will provide more growth opportunity compared to the same investment in urban cities.
 
 **Rideshare Summary**
+
 ![Ridesharing_summary.png](https://github.com/smj452/PyBer_Analysis/blob/main/Analysis/Ridesharing_summary.png)
+
 
 ![PyBerRideSharing_data(2019).png](https://github.com/smj452/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 
