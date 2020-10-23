@@ -16,15 +16,11 @@ urban cities. This provides PyBer the opportunity to increase driver support in 
 
 ![Ridesharing_summary.png](https://github.com/smj452/PyBer_Analysis/blob/main/Analysis/Ridesharing_summary.png)
 
-
 ![PyBerRideSharing_data(2019).png](https://github.com/smj452/PyBer_Analysis/blob/main/Analysis/Fig1.png)
-
 
 ![%TotalFaresByCityType.png](https://github.com/smj452/PyBer_Analysis/blob/main/Analysis/Fig5.png)
 
-
 ![%TotalRidesByCityType.png](https://github.com/smj452/PyBer_Analysis/blob/main/Analysis/Fig6.png)
-
 
 ![%TotalDriversByCityType.png](https://github.com/smj452/PyBer_Analysis/blob/main/Analysis/Fig7.png)
 
