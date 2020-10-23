@@ -1,7 +1,7 @@
 # PyBer - Rideshare Company Analysis
 
 ## Overview of the Project
-The purpose of this project is to analyze ride transaction data of a popular ride sharing company” PyBer”. By using Python, Pandas and Matplotlib, we were instructed to create a multi-lined graph to show PyBer the total weekly fares for each city type, Urban, Suburban and Rural as well as a summary data frame of the information gathered from the data that was given to us. Finally, a written report has to be submitted that summarizes the findings as well as how each city types differs from one another and how these findings can be used by the decision makers at PyBer.
+The purpose of this project is to analyze ride transaction data of a popular ride sharing company "PyBer". By using Python, Pandas and Matplotlib, we were instructed to create a multi-lined graph to show PyBer the total weekly fares for each city type, Urban, Suburban and Rural as well as a summary data frame of the information gathered from the data that was given to us. Finally, a written report has to be submitted that summarizes the findings as well as how each city types differs from one another and how these findings can be used by the decision makers at PyBer.
 
 ## Results
 The table below provides a quick summary of the differences in ride-sharing data for different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. Some of the key observations are:
