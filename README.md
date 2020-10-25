@@ -31,7 +31,7 @@ urban cities. This provides PyBer the opportunity to increase driver support in 
 The above graph is a visual representation of the ride share data for the PyBer Fare by City Type. For all city types, there are a few spikes in terms of the fare. Like the summary table, this graph also shows that the majority of the fare being generated comes mostly from urban cities, then suburban cities and lastly, rural cities. Grasping information from both the summary table and the graph, it is clear that the average fare for a ride in rural cities is the highest, but the most money being generated is in urban cities.
 
 ## Summary
-### Business Recommendations to the CEO for addressing disparities among the city types
+### Business recommendations to the CEO for addressing disparities among the city types
 -	Based on the results from this analysis, one recommendation that can be given is considering the total length of the ride. Depending on how far the driver is taking the passenger, this could also be the reason why the average fare per ride in rural cities is high and in urban cities is low.
 -	Reduce the fare per ride in rural and suburban cities and thus making it affordable to people. This would help in increasing the people adoption of PyBer service.
 -	Lastly clearly define the criteria as to what makes a city urban, suburban or rural. Currently, we are just relying on the data provided, but it would have made the data more accurate if there was a clear criteria to categorize a city as urban, suburban or rural.
